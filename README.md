@@ -9,6 +9,7 @@ O objetivo foi identificar os principais fatores que comprometem a margem de luc
 O resultado final inclui um dashboard interativo e um conjunto de recomendações estratégicas suportadas por dados.
 
 https://github.com/fmcoelho91-prog/Global-Superstore-data-analysis/blob/main/Captura%20de%20ecr%C3%A3%202026-07-13%20212544.png
+https://github.com/fmcoelho91-prog/Global-Superstore-data-analysis/blob/main/Captura%20de%20ecr%C3%A3%202026-07-13%20212557.png
 
 ## Nota
 
