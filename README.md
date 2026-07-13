@@ -8,10 +8,8 @@ O objetivo foi identificar os principais fatores que comprometem a margem de luc
 
 O resultado final inclui um dashboard interativo e um conjunto de recomendações estratégicas suportadas por dados.
 
-https://github.com/fmcoelho91-prog/Global-Superstore-data-analysis/blob/main/Captura%20de%20ecr%C3%A3%202026-07-13%20212544.png
-
-https://github.com/fmcoelho91-prog/Global-Superstore-data-analysis/blob/main/Captura%20de%20ecr%C3%A3%202026-07-13%20212557.png
-
+[Dashboard1](https://github.com/fmcoelho91-prog/Global-Superstore-data-analysis/blob/main/Dasboard1.png)
+[Dasboard2](https://github.com/fmcoelho91-prog/Global-Superstore-data-analysis/blob/main/Dashboard2.png)
 ## Nota
 
 Devido à dimensão do ficheiro Excel, o dashboard não se encontra incluído neste repositório. As principais análises, metodologia e resultados encontram-se documentados neste README e ilustrados através das capturas de ecrã do dashboard.
