@@ -10,6 +10,9 @@ O resultado final inclui um dashboard interativo e um conjunto de recomendaçõe
 
 ![Dashboard Global Superstore](images/dashboard.png)
 
+## Nota
+
+Devido à dimensão do ficheiro Excel, o dashboard não se encontra incluído neste repositório. As principais análises, metodologia e resultados encontram-se documentados neste README e ilustrados através das capturas de ecrã do dashboard.
 ---
 
 #  Business Problem
